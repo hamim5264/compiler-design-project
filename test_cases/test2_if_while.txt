@@ -1,0 +1,8 @@
+int x;
+x = 5;
+if (x) {
+    show x;
+}
+while (x) {
+    input x;
+}

@@ -1,0 +1,7 @@
+int a;
+float b;
+mytype c;
+a = 10;
+b = 5.5;
+input c;
+show a + b;
